@@ -7,7 +7,6 @@ Este es el proyecto original para crear aplicaciones utilizando webpack
 Recuerden reconstruir los modulos de Node
 
 ```
-
 npm install
 ```
 
